@@ -1,4 +1,4 @@
-package com.timsoft.services.distributedtracingservice;
+package com.timsoft.services.distributedtracing;
 
 
 import org.junit.Test;
